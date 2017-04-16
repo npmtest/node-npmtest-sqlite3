@@ -1,7 +1,7 @@
 # test coverage for  [sqlite3 (v3.1.8)](http://github.com/mapbox/node-sqlite3)  [![npm package](https://img.shields.io/npm/v/npmtest-sqlite3.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sqlite3) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sqlite3.svg)](https://travis-ci.org/npmtest/node-npmtest-sqlite3)
 #### Asynchronous, non-blocking SQLite3 bindings
 
-[![NPM](https://nodei.co/npm/sqlite3.png?downloads=true)](https://www.npmjs.com/package/sqlite3)
+[![NPM](https://nodei.co/npm/sqlite3.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sqlite3)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-sqlite3/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,11 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-sqlite3/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-sqlite3/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sqlite3/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sqlite3/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-sqlite3/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-sqlite3/build/coverage.html/index.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-sqlite3/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-sqlite3/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-sqlite3/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-sqlite3%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-sqlite3/build/test-report.html)
+[![test-report](https://npmtest.github.io/node-npmtest-sqlite3/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-sqlite3/build/test-report.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-sqlite3/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-sqlite3%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sqlite3/build/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-sqlite3/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-sqlite3/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-sqlite3/build/screenCapture.npmPackageListing.svg)
 
@@ -45,67 +45,52 @@
     ],
     "contributors": [
         {
-            "name": "Konstantin Käfer",
-            "email": "mail@kkaefer.com"
+            "name": "Konstantin Käfer"
         },
         {
-            "name": "Dane Springmeyer",
-            "email": "dane@mapbox.com"
+            "name": "Dane Springmeyer"
         },
         {
-            "name": "Will White",
-            "email": "will@mapbox.com"
+            "name": "Will White"
         },
         {
-            "name": "Orlando Vazquez",
-            "email": "ovazquez@gmail.com"
+            "name": "Orlando Vazquez"
         },
         {
-            "name": "Artem Kustikov",
-            "email": "kustikoff@gmail.com"
+            "name": "Artem Kustikov"
         },
         {
-            "name": "Eric Fredricksen",
-            "email": "efredricksen@gmail.com"
+            "name": "Eric Fredricksen"
         },
         {
-            "name": "John Wright",
-            "email": "mrjjwright@gmail.com"
+            "name": "John Wright"
         },
         {
-            "name": "Ryan Dahl",
-            "email": "ry@tinyclouds.org"
+            "name": "Ryan Dahl"
         },
         {
-            "name": "Tom MacWright",
-            "email": "tom@mapbox.com"
+            "name": "Tom MacWright"
         },
         {
-            "name": "Carter Thaxton",
-            "email": "carter.thaxton@gmail.com"
+            "name": "Carter Thaxton"
         },
         {
-            "name": "Audrius Kažukauskas",
-            "email": "audrius@neutrino.lt"
+            "name": "Audrius Kažukauskas"
         },
         {
-            "name": "Johannes Schauer",
-            "email": "josch@pyneo.org"
+            "name": "Johannes Schauer"
         },
         {
-            "name": "Nathan Rajlich",
-            "email": "nathan@tootallnate.net"
+            "name": "Nathan Rajlich"
         },
         {
-            "name": "AJ ONeal",
-            "email": "coolaj86@gmail.com"
+            "name": "AJ ONeal"
         },
         {
             "name": "Mithgol"
         },
         {
-            "name": "Ben Noordhuis",
-            "email": "ben@strongloop.com"
+            "name": "Ben Noordhuis"
         }
     ],
     "dependencies": {
@@ -135,25 +120,20 @@
     "main": "./lib/sqlite3",
     "maintainers": [
         {
-            "name": "kkaefer",
-            "email": "kkaefer@gmail.com"
+            "name": "kkaefer"
         },
         {
-            "name": "yhahn",
-            "email": "young@developmentseed.org"
+            "name": "yhahn"
         },
         {
-            "name": "tmcw",
-            "email": "macwright@gmail.com"
+            "name": "tmcw"
         },
         {
-            "name": "springmeyer",
-            "email": "dane@dbsgeo.com"
+            "name": "springmeyer"
         }
     ],
     "name": "sqlite3",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/mapbox/node-sqlite3.git"
